@@ -137,7 +137,7 @@ cloud_engineer:
 
 ---
 
-<!-- ==================== 3D ACHIEVEMENTS & TROPHIES ==================== -->
+<!-- ==================== 3D ACHIEVEMENTS & VISUALS ==================== -->
 <h3 align="center">
   <img src="https://media.giphy.com/media/WFZvB7VIX092o/giphy.gif" width="30" height="30" />
   3D Cloud Engineer Achievements
@@ -149,7 +149,11 @@ cloud_engineer:
   </a>
 </div>
 
----
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284518-e72750e9-d779-4d52-8700-1c70e7e6cd54.gif" width="400" alt="3D Cloud Tech Animation" />
+</div>
 
 <!-- ==================== 3D ISOMETRIC CONTRIBUTION CITY ==================== -->
 <h3 align="center">

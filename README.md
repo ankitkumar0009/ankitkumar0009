@@ -40,6 +40,10 @@
 <!-- ==================== ABOUT ME ==================== -->
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28" height="28" /> About Me
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="380" alt="3D Cloud Engineering Hologram" />
+</div>
+
 ```yaml
 cloud_engineer:
   name: Ankit Kumar
@@ -129,6 +133,36 @@ cloud_engineer:
   </a>
 </p>
 
+</div>
+
+---
+
+<!-- ==================== 3D ACHIEVEMENTS & TROPHIES ==================== -->
+<h3 align="center">
+  <img src="https://media.giphy.com/media/WFZvB7VIX092o/giphy.gif" width="30" height="30" />
+  3D Cloud Engineer Achievements
+</h3>
+
+<div align="center">
+  <a href="https://github.com/ankitkumar0009">
+    <img src="https://github-profile-trophy.vercel.app/?username=ankitkumar0009&theme=tokyonight&no-frame=true&margin-w=4&row=1&column=7" alt="3D Trophies" />
+  </a>
+</div>
+
+---
+
+<!-- ==================== 3D ISOMETRIC CONTRIBUTION CITY ==================== -->
+<h3 align="center">
+  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM03wg/giphy.gif" width="30" height="30" />
+  3D Isometric Contribution & Cloud Activity
+</h3>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ankitkumar0009/ankitkumar0009/main/profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D Isometric Contribution Graph" />
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ankitkumar0009/ankitkumar0009/output/github-contribution-grid-snake-3d-dark.svg" width="100%" alt="3D Contribution Snake Animation" />
 </div>
 
 ---

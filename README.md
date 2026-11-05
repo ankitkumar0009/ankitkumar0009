@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ==================== HEADER BANNER ==================== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,18,30,45&height=220&section=header&text=Ankit%20Kumar&fontSize=48&fontAlignY=38&animation=twinkling&desc=Cloud%20%26%20DevOps%20Engineer%20☁️&descAlignY=62&descAlign=50&fontColor=ffffff" width="100%" alt="Header Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,18,30,45&height=220&section=header&text=Ankit%20Kumar&fontSize=48&fontAlignY=38&animation=twinkling&desc=Cloud%20%7C%20DevOps%20Engineer&descAlignY=62&descAlign=50&fontColor=ffffff" width="100%" alt="Header Banner" />
 
 <!-- ==================== DYNAMIC TYPING SVG ==================== -->
 <a href="https://github.com/ankitkumar0009">
